@@ -6,11 +6,12 @@
   "regions": ["iad1"],
   "env": {
     "NEXT_PUBLIC_SUPABASE_URL": "https://mhrtoornpxgyigiemi.supabase.co",
-    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "@supabase-anon-key",
-    "NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME": "@cloudinary-cloud-name",
-    "CLOUDINARY_API_KEY": "@cloudinary-api-key",
-    "CLOUDINARY_API_SECRET": "@cloudinary-api-secret",
-    "NEXT_PUBLIC_APP_URL": "@app-url",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imhtcmhjb3JvbnB4Z3lyZ2lpZW1pIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjIzNTU1NzYsImV4cCI6MjA3NzkzMTU3Nn0.KtK4MYUxblvxUtyeXHxsymRDArVfTnI_gJPqnqmfTwE
+",
+    "NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME": "ddiy68vkr",
+    "CLOUDINARY_API_KEY": "397517684963737",
+    "CLOUDINARY_API_SECRET": "uh_HexcCCG4qjE83gOOr8e-zC50",
+    "NEXT_PUBLIC_APP_URL": "cloudinary://397517684963737:uh_HexcCCG4qjE83gOOr8e-zC50@ddiy68vkr",
     "NEXT_PUBLIC_SENTRY_DSN": "@sentry-dsn"
   }
 }
